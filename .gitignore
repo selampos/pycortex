@@ -1,0 +1,25 @@
+# Python virtual environment
+pycortex-env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment/config
+.env
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Python versioning
+.python-version
+
+# OS
+.DS_Store
+
+# Python Saved Models
+*.save
